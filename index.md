@@ -8,15 +8,15 @@ Anime is a form of animation originating in Japan. It is characterized by colorf
   
   TOP ANIME'S:
   
-  print("Cowboy Bebop")(https://www.imdb.com/title/tt0213338/)
+  [Cowboy Bebop](https://www.imdb.com/title/tt0213338/)
   
-  print("Fullmetal Alchemist: Brotherhood")(https://www.imdb.com/title/tt1311061/)
+  [Fullmetal Alchemist: Brotherhood](https://www.imdb.com/title/tt1311061/)
   
-  print("Attack on Titan")(https://www.imdb.com/title/tt2560140/)
+  [Attack on Titan](https://www.imdb.com/title/tt2560140/)
   
-  print("Death Note")(https://www.imdb.com/title/tt0877057/)
+  [Dath Note](https://www.imdb.com/title/tt0877057/)
   
-  print("One Piece")(https://www.imdb.com/title/tt0388629/)
+  [One Piece](https://www.imdb.com/title/tt0388629/)
 
 
 <script src="https://cdn.jsdelivr.net/gh/gocku/gocku-image@latest/gocku.js"></script>
