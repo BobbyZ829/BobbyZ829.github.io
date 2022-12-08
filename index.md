@@ -7,8 +7,7 @@
 p {
   background-image: url("iframe src="gokuUI.gif" frameborder="0" scrolling="no" width="640px" height="360px" style="-webkit-backface-visibility: hidden;-webkit-transform: scale(1);");
 }
-</style>
-  
+</style> 
     <title>Anime Webpage</title>
   </head>
   <body>
@@ -40,5 +39,4 @@ p {
       </ul>
     </div>
   </body>
-
 </html>
