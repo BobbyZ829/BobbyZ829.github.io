@@ -2,6 +2,13 @@
 # This is my Webpage
 
 <html>
+<head>
+<style>
+p {
+  background-image: url("iframe src="gokuUI.gif" frameborder="0" scrolling="no" width="640px" height="360px" style="-webkit-backface-visibility: hidden;-webkit-transform: scale(1);");
+}
+</style> 
+    <title>Anime Webpage</title>
   </head>
   <body>
     <h1>Welcome to the Anime Webpage!</h1>
@@ -31,10 +38,5 @@
         <li><a href="https://en.wikipedia.org/wiki/Dr. Stone">Dr. Stone</a></li>
       </ul>
     </div>
-  <style>
-body {
-  background-image: url('<iframe src="//gifs.com/embed/ultra-instinct-kamehameha-2xy3GN?muted=false" frameborder="0" scrolling="no" width="640px" height="360px" style="-webkit-backface-visibility: hidden;-webkit-transform: scale(1);"></iframe>');
-}
-</style>
   </body>
 </html>
