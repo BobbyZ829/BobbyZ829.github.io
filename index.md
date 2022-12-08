@@ -1,13 +1,18 @@
 # Hello World
 # This is my Webpage
 
-ABOUT ANIME:
+
 
 
 
   <html>
   <head>
     <title>Anime Webpage</title>
+    <style>
+body {
+  background-image: url('<iframe src="//gifs.com/embed/ultra-instinct-kamehameha-2xy3GN?muted=false" frameborder="0" scrolling="no" width="640px" height="360px" style="-webkit-backface-visibility: hidden;-webkit-transform: scale(1);"></iframe>');
+}
+</style>
   </head>
   <body>
     <h1>Welcome to the Anime Webpage!</h1>
@@ -38,9 +43,5 @@ ABOUT ANIME:
       </ul>
     </div>
   </body>
-<style>
-body {
-  background-image: url('<iframe src="//gifs.com/embed/ultra-instinct-kamehameha-2xy3GN?muted=false" frameborder="0" scrolling="no" width="640px" height="360px" style="-webkit-backface-visibility: hidden;-webkit-transform: scale(1);"></iframe>');
-}
-</style>
+
 </html>
