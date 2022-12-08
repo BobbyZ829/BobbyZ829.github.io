@@ -20,8 +20,8 @@ Anime is a form of animation originating in Japan. It is characterized by colorf
   [One Piece](https://www.imdb.com/title/tt0388629/)
 
 
-<script src="https://cdn.jsdelivr.net/gh/gocku/gocku-image@latest/gocku.js"></script>
-
-<script>
-  gocku.image('gocku-image', 'gocku-image-container');
-</script>
+<style>
+body {
+  background-image: url('ultra-instinct-kamehameha-2xy3GN.htm');
+}
+</style>
