@@ -18,23 +18,23 @@ ABOUT ANIME:
     <div>
       <h2>Popular Anime Series</h2>
       <ul>
-        <li>[Naruto]<a href="https://en.wikipedia.org/wiki/Naruto">Naruto</a></li>
-        <li>One Piece</li>
-        <li>Attack on Titan</li>
-        <li>My Hero Academia</li>
-        <li>Death Note</li>
-        <li>Fairy Tail</li>
+        <li><a href="https://en.wikipedia.org/wiki/Naruto">Naruto</a></li>
+        <li><a href="https://en.wikipedia.org/wiki/One Piece">One Piece</a></li>
+        <li><a href="https://en.wikipedia.org/wiki/Attack on Titan">Attack on Titan</a>n</li>
+        <li><a href="https://en.wikipedia.org/wiki/My Hero Academia">My Hero Academia</a></li>
+        <li><a href="https://en.wikipedia.org/wiki/Death Note">Death Note</a></li>
+        <li><a href="https://en.wikipedia.org/wiki/Fairy Tale">Fairy Tale</a></li>
       </ul>
     </div>
     <div>
       <h2>New Anime Series</h2>
       <ul>
-        <li>Demon Slayer</li>
-        <li>Vinland Saga</li>
-        <li>The Promised Neverland</li>
-        <li>Kaguya-sama: Love is War</li>
-        <li>Fire Force</li>
-        <li>Dr. Stone</li>
+        <li><a href="https://en.wikipedia.org/wiki/Demon Slayer">Demon Slayer</a></li>
+        <li><a href="https://en.wikipedia.org/wiki/Vinland Saga">Vinland Saga</a></li>
+        <li><a href="https://en.wikipedia.org/wiki/The Promised Neverland">The Promised Neverland</a></li>
+        <li><a href="https://en.wikipedia.org/wiki/Kaguya-sama: Love is War">Kaguya-sama: Love is War</a></li>
+        <li><a href="https://en.wikipedia.org/wiki/Fire Force">Fire Force</a></li>
+        <li><a href="https://en.wikipedia.org/wiki/Dr. Stone">Dr. Stone</a></li>
       </ul>
     </div>
   </body>
