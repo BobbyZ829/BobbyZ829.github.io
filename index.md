@@ -4,9 +4,11 @@
 <html>
 <head>
 <style>
+  <!-- doesn't work -- might be CSS issues, might be you can't background an animated gif IDK
 p {
   background-image: url("iframe src="gokuUI.gif" frameborder="0" scrolling="no" width="640px" height="360px" style="-webkit-backface-visibility: hidden;-webkit-transform: scale(1);");
 }
+-->
 </style>
   
   <head>
@@ -40,6 +42,7 @@ p {
         <li><a href="https://en.wikipedia.org/wiki/Dr. Stone">Dr. Stone</a></li>
       </ul>
     </div>
+    <img src="gokuUI.gif">
   </body>
   </head>
 </html>
