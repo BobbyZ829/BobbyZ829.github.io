@@ -17,7 +17,7 @@
         <li><a href="https://en.wikipedia.org/wiki/Naruto">Naruto</a></li><img src="naruto-kurama.gif">
         <li><a href="https://en.wikipedia.org/wiki/One Piece">One Piece</a></li><img src="AlarmingPlasticCivet-size_restricted.gif">
         <li><a href="https://en.wikipedia.org/wiki/Attack on Titan">Attack on Titan</a></li><img src="cpt levi.gif">
-        <li><a href="https://en.wikipedia.org/wiki/My Hero Academia">My Hero Academia</a></li>
+        <li><a href="https://en.wikipedia.org/wiki/My Hero Academia">My Hero Academia</a></li><img src="deku.gif">
         <li><a href="https://en.wikipedia.org/wiki/Death Note">Death Note</a></li>
         <li><a href="https://en.wikipedia.org/wiki/Fairy Tale">Fairy Tale</a></li>
       </ul>
