@@ -11,8 +11,7 @@
     <p>Here you will find information about all of your favorite anime series.</p>
     <p>ABOUT ANIME:</p>
     <p>Anime is a form of animation originating in Japan. It is characterized by colorful graphics, vibrant characters, and fantastical themes. Anime has become increasingly popular in recent years and can be seen in a variety of different genres, such as action, adventure, comedy, drama, fantasy, horror, and romance. Anime is often considered to be a form of art, with stories that explore complex themes and characters with unique personalities. It can be enjoyed by people of all ages, cultures, and backgrounds.</p>
-   <img src="naruto-kurama.gif">
-   <img src="AlarmingPlasticCivet-size_restricted.gif">
+   <img src="naruto-kurama.gif"><img src="AlarmingPlasticCivet-size_restricted.gif">
     <div>
       <h2>Popular Anime Series</h2>
       <ul>
