@@ -11,7 +11,6 @@ p {
 -->
 </style>
   
-  <head>
     <title>Anime Webpage</title>
   </head>
   <body>
@@ -44,5 +43,5 @@ p {
     </div>
     <img src="gokuUI.gif">
   </body>
-  </head>
+
 </html>
