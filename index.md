@@ -8,10 +8,10 @@
   <html>
   <head>
     <style>
-body {
-  background-image: url('<iframe src="//gifs.com/embed/ultra-instinct-kamehameha-2xy3GN?muted=false" frameborder="0" scrolling="no" width="640px" height="360px" style="-webkit-backface-visibility: hidden;-webkit-transform: scale(1);"></iframe>');
+p {
+  background-image: url("iframe src="//gifs.com/embed/ultra-instinct-kamehameha-2xy3GN?muted=false" frameborder="0" scrolling="no" width="640px" height="360px" style="-webkit-backface-visibility: hidden;-webkit-transform: scale(1);")</iframe>'"));
 }
-    </style>
+</style>
     <title>Anime Webpage</title>
   </head>
   <body>
