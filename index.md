@@ -38,6 +38,7 @@ p {
         <li><a href="https://en.wikipedia.org/wiki/Dr. Stone">Dr. Stone</a></li>
       </ul>
     </div>
+        <img src="gokuUI.gif">
   </body>
 </html>
-    <img src="gokuUI.gif">
+
