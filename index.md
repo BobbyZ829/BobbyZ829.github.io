@@ -21,6 +21,7 @@ Anime is a form of animation originating in Japan. It is characterized by colorf
 
 
 <script src="https://cdn.jsdelivr.net/gh/gocku/gocku-image@latest/gocku.js"></script>
+
 <script>
   gocku.image('gocku-image', 'gocku-image-container');
 </script>
