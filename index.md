@@ -3,13 +3,7 @@
 
 <html>
 <head>
-<body>
-<style>
-p {
-  background-image: url("iframe src="gokuUI.gif" frameborder="0" scrolling="no" width="640px" height="360px");
-}
-</style>
-</body>
+  <img src="gokuUI.gif">
     <title>Anime Webpage</title>
   </head>
   <body>
@@ -40,7 +34,5 @@ p {
         <li><a href="https://en.wikipedia.org/wiki/Dr. Stone">Dr. Stone</a></li>
       </ul>
     </div>
-        <img src="gokuUI.gif">
   </body>
 </html>
-
