@@ -3,11 +3,13 @@
 
 <html>
 <head>
+<body>
 <style>
 p {
   background-image: url("iframe src="gokuUI.gif" frameborder="0" scrolling="no" width="640px" height="360px");
 }
-</style> 
+</style>
+</body>
     <title>Anime Webpage</title>
   </head>
   <body>
