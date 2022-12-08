@@ -18,7 +18,7 @@ ABOUT ANIME:
     <div>
       <h2>Popular Anime Series</h2>
       <ul>
-        <li>Naruto</li>
+        <li>[Naruto]<a href="https://en.wikipedia.org/wiki/Naruto">Naruto</a></li>
         <li>One Piece</li>
         <li>Attack on Titan</li>
         <li>My Hero Academia</li>
