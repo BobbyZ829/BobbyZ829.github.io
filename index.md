@@ -21,7 +21,7 @@
         <li><a href="https://en.wikipedia.org/wiki/My Hero Academia">My Hero Academia</a></li><img src="deku.gif">
         <li><a href="https://en.wikipedia.org/wiki/Death Note">Death Note</a></li><img src="death note.gif">
         <li><a href="https://en.wikipedia.org/wiki/Fairy Tale">Fairy Tale</a></li><img src="ft.gif">
-     </ul>
+      </ul>
     </div>
     <div>
       <h2>New Anime Series</h2>
